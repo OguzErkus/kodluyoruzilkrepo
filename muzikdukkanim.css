@@ -1,0 +1,51 @@
+    h1 {
+        color: brown;
+        text-align: center;
+    }
+
+
+    h2 {
+        text-align: center;
+        color: purple;
+
+    }
+
+    p {
+
+        text-align: center;
+    }
+
+
+    a {
+        margin: 0px 260px 0px 260px;
+    }
+
+  img{
+
+    width: 300px;
+    margin:0px  0px  0px 0px;
+  }
+
+
+  h3{
+
+    color:darkgoldenrod;
+    text-align: center;
+  }
+
+  ul{ list-style-position: inside;
+
+
+  }
+
+  li{
+
+    text-align: center;
+  }
+
+  ol{
+
+    text-align: center;
+  }
+
+ 
